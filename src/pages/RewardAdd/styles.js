@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     },
     backText: {
         marginLeft: 5,
-         fontFamily: 'Alata-Regular'
+       
     },
     topContainer: {
         flexDirection: 'row',
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
         paddingTop: 20,
         fontSize: 28,
         fontWeight: 'bold',
-        fontFamily: 'Alata-Regular',
+      
        
       },
       form: {
@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
       },
 
       loginButtonText: {
-        fontFamily: 'Alata-Regular',
+      
         fontWeight: 'bold',
         color: 'white',
       },

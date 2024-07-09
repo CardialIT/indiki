@@ -9,14 +9,14 @@ export default StyleSheet.create({
     paddingHorizontal: 10,
   },
   titleRegisterLabel:{
-    fontFamily: 'Alata-Regular',
+
     fontSize: 30,
     color: "black",
     marginBottom: 5,
   },
 
   label: {
-    fontFamily: 'Alata-Regular',
+
     fontSize: 16,
     marginBottom: 5,
     alignSelf: "flex-start",
@@ -36,7 +36,7 @@ export default StyleSheet.create({
   inputRegister: {
     width: "100%",
     fontSize: 16,
-    fontFamily: 'Alata-Regular',
+
     marginBottom: 5,
     color: "#A7A6A5",
     width: "100%",
@@ -45,7 +45,7 @@ export default StyleSheet.create({
     width: "90%",
     backgroundColor: "#E63E8F",
     borderRadius: 20,
-    fontFamily: "Alata-Regular",
+ 
     height: 70,
     display: "flex",
     flexDirection: "column",
@@ -55,7 +55,7 @@ export default StyleSheet.create({
   },
   buttonRegisterText: {
     color: "#F4F6F5",
-    fontFamily: "Alata-Regular",
+
     fontSize: 16,
     borderRadius: 16,
     marginBottom: 0,
@@ -73,13 +73,13 @@ export default StyleSheet.create({
   signupRegisterText: {
     fontSize: 16,
     color: "#A7A6A5",
-    fontFamily: "Alata-Regular",
+
   },
   signupLinkRegisterText: {
     color: "#E63E8F",
     textDecorationLine: "underline",
     marginLeft: 5,
-    fontFamily: "Alata-Regular",
+
   },
   errorMessage: {
     color: "red",
@@ -124,13 +124,13 @@ export default StyleSheet.create({
     color: 'white',
     fontWeight: 'bold',
     textAlign: 'center',
-    fontFamily: "Alata-Regular",
+
 
   },
   modalText: {
     marginBottom: 15,
     textAlign: 'center',
-    fontFamily: "Alata-Regular",
+
   },
   checkLayout:{
     display: 'flex',

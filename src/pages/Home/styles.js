@@ -25,7 +25,7 @@ export default StyleSheet.create({
     flexDirection: "column",
   },
   nameText:{
-    fontFamily: 'Alata-Regular',
+  
 fontSize: 25
   },
 
@@ -57,13 +57,13 @@ fontFamily: 'Alata-Regular',
       },
 
       buttonHomeTextTitle: {
-        fontFamily: 'Alata-Regular',
+      
         fontSize: 20,
         color: '#fff'
       },
       buttonHomeTextSubtitle: {
         color: '#fff',
-        fontFamily: 'Alata-Regular',
+      
       }
 
 })

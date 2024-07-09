@@ -34,13 +34,13 @@ export default StyleSheet.create({
   title: {
     fontSize: 28,
     fontWeight: "bold",
-    fontFamily: 'Alata-Regular',
+  
   },
   form: {
     width: "100%",
   },
   infoCardLabel:{
-    fontFamily: 'Alata-Regular',
+  
   },
   inputBackground: {
     width: "100%",
@@ -92,7 +92,7 @@ export default StyleSheet.create({
     marginBottom: 15,
   },
   indiqueButtonText: {
-    fontFamily: 'Alata-Regular',
+  
     fontWeight: "bold",
     color: "white",
     fontSize: 16,
@@ -105,7 +105,7 @@ export default StyleSheet.create({
   },
 
   titleFormulario: {
-    fontFamily: 'Alata-Regular',
+  
     padding: 10,
     fontWeight: 600,
     color: "black",
@@ -133,11 +133,11 @@ export default StyleSheet.create({
     },},
     buttonCloseModalLogin:{
       marginTop: 20,
-      fontFamily: 'Alata-Regular',
+    
       backgroundColor: '#E63E8F',
       width: 90,
       height: 30,
-    borderRadius: '50%',
+    borderRadius: 50,
     display: 'flex',
     flexDirection: 'row',
     justifyContent: 'center',

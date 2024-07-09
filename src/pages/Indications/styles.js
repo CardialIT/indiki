@@ -17,19 +17,19 @@ export default StyleSheet.create({
   },
   backText: {
     marginLeft: 8,
-    fontFamily: 'Alata-Regular'
+  
   },
   title: {
     fontSize: 28,
     paddingTop:10,
     fontWeight: 'bold',
-    fontFamily: 'Alata-Regular'
+  
   },
   pageTitle:{
     fontSize: 28,
     paddingTop:10,
     fontWeight: 'bold',
-    fontFamily: 'Alata-Regular'
+  
   },
 
   searchBar: {
@@ -73,17 +73,17 @@ export default StyleSheet.create({
   title: {
     fontSize: 24,
     marginBottom: 4,
-    fontFamily: 'Alata-Regular',
+  
   },
   date: {
     fontSize: 16,
     color: 'gray',
     marginBottom: 4,
-    fontFamily: 'Alata-Regular',
+  
   },
   status: {
     fontSize: 16,
-    fontFamily: 'Alata-Regular',
+  
   },
   consolidationButton: {
     backgroundColor: '#e63e8f',
@@ -97,7 +97,7 @@ export default StyleSheet.create({
     color: '#FFFFFF',
     fontSize: 16,
     fontWeight: 'bold',
-    fontFamily: 'Alata-Regular',
+  
   },
   itemNameContainer: {
     flexDirection: 'row',
@@ -108,7 +108,7 @@ export default StyleSheet.create({
   date: {
     fontSize: 12,
     color: '#666',
-    fontFamily: 'Alata-Regular',
+  
     marginTop: 4,
   },
   

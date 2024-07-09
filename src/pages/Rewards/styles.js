@@ -20,14 +20,14 @@ const styles = StyleSheet.create({
   },
   backText: {
     marginLeft: 5,
-    fontFamily: 'Alata-Regular',
+  
   },
 
   // Item
   item: {
     backgroundColor: '#FFFFFF',
     padding: 20,
-    borderStyle: 'none',
+
     display: 'flex',
     flexDirection: 'row',
     justifyContent: 'space-between',
@@ -60,23 +60,23 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 28,
     fontWeight: 'bold',
-    fontFamily: 'Alata-Regular',
+  
   },
 
   // Text
   name: {
     fontSize: 18,
-    fontFamily: 'Alata-Regular',
+  
   },
   date: {
     // fontSize: 28,
-    fontFamily: 'Alata-Regular',
+  
   },
 
   // Title Score
   titleScore: {
     fontSize: 16,
-    fontFamily: 'Alata-Regular',
+  
   },
 
   // Add Button
@@ -167,7 +167,7 @@ const styles = StyleSheet.create({
     color: '#FFFFFF',
     fontSize: 12,
     fontWeight: 'bold',
-    fontFamily: 'Alata-Regular',
+  
   },
 
   // Modal
@@ -191,11 +191,11 @@ const styles = StyleSheet.create({
   },
   buttonCloseModalLogin: {
     marginTop: 20,
-    fontFamily: 'Alata-Regular',
+  
     backgroundColor: '#E63E8F',
     width: 90,
     height: 30,
-    borderRadius: '50%',
+    borderRadius: 50,
     display: 'flex',
     flexDirection: 'row',
    justifyContent: 'center',
